@@ -2,7 +2,8 @@
 
 A sleek and feature-packed Python desktop application that delivers **real-time weather updates** and **5-day forecasts** for any location worldwide. Simple, intuitive, and beautifully designed!  
 
-![image](https://github.com/user-attachments/assets/7b7fc07a-d529-425a-a1ad-ca8c3c20c5df)
+![image](https://github.com/user-attachments/assets/039c99df-42b3-4c88-9870-14dc9737dd7b)
+
  
 
 ## 🌟 Why You'll Love It  
